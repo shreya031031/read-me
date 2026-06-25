@@ -1,4 +1,4 @@
-eate a new file .github/prompts/generate-notes.prompt.md with the following structure.
+reate a new file .github/prompts/generate-notes.prompt.md with the following structure.
 
 1. Frontmatter:
 
@@ -108,4 +108,4 @@ Add findByUserId(Long userId) query method
 
 Notice: only the controller has a snippet (new endpoint signature). Service and repository describe changes in bullets without snippets — that's the right balance.
 
-**5. End the prompt with:** "Generate technical notes based on the current ch
+**5. End the prompt with:** "Generate technical notes based on the current chat context."
